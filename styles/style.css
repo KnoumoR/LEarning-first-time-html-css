@@ -1,0 +1,39 @@
+p {
+    font-size: 40px;
+    font-family: 'Shojumaru', cursive;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+ li {
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+
+li {
+    font-family: 'Waiting for the Sunrise', cursive;
+    font-size: 50px;
+}
+
+html {
+    background-color: #00539F;
+}
+
+body {
+    width: 1950px;
+    margin: 150px  auto;
+    background-color: #FF9500;
+    padding: 100px 100px ;
+    border: 10px solid black;
+    text-shadow: 4px 4px 2px green;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 1500px;
+
+}
